@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EventPublisher</string>
+    <string name="publish_random_event">Publish Random Event</string>
+</resources>
